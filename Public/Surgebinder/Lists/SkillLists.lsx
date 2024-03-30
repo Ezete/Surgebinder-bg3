@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with ShinyHobo's BG3 Modder's Multitool-->
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="SkillLists">
+    <node id="root">
+      <children>
+        <node id="SkillList"> Class Skills Surgebinder
+                    <attribute id="Skills" type="LSString" value="Acrobatics, Athletics, Insight, Persuasion, Perception, Survival" /> List of skills to choose at CC
+                    <attribute id="UUID" type="guid" value="81ff2dec-d08f-4382-a536-148011863473" /> same as passiveList, make a new UUID and refer to it when selecting skills
+                </node>
+      </children>
+    </node>
+  </region>
+</save>

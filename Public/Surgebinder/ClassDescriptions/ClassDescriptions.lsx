@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with ShinyHobo's BG3 Modder's Multitool-->
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="ClassDescriptions">
+    <node id="root">
+      <children>
+        <node id="ClassDescription"> <!--Main Class-->
+					<attribute id="BaseHp" type="int32" value="8" />
+					<attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8" />
+					<attribute id="Description" type="TranslatedString" handle="h936e5cc8gcf49g41degaa67g744bfe6f3733" version="1" /> <!--Link to the .loca file-->
+					<attribute id="DisplayName" type="TranslatedString" handle="h325e4d90g606ag4ee7gab81ge8f1c4e838f8" version="1" /> <!--Link to the .loca file-->
+					<attribute id="HpPerLevel" type="int32" value="5" />
+					<attribute id="ClassHotbarColumns" type="int32" value="5" />
+					<attribute id="CommonHotbarColumns" type="int32" value="9" />
+					<attribute id="Name" type="FixedString" value="Surgebinder" />
+					<attribute id="ItemsHotbarColumns" type="int32" value="2" />
+					<attribute id="LearningStrategy" type="uint8" value="1" />
+					<attribute id="PrimaryAbility" type="uint8" value="1" />
+					<attribute id="SpellCastingAbility" type="uint8" value="0" />
+					<attribute id="SoundClassType" type="FixedString" value="Paladin" />
+					<attribute id="ProgressionTableUUID" type="guid" value="054d7b0c-e4b6-447e-9381-3180f2f41f4b" /> <!--This UUID links the Class to a specific progression table inside Progressions.lsx-->
+					<attribute id="UUID" type="guid" value="f6783867-5547-4bad-ba87-2bcf194667a3" /> <!--The ID for your class, make a new one-->
+                </node>
+        <node id="ClassDescription"> <!--Subclass Windrunner-->
+					<attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8" />
+					<attribute id="Description" type="TranslatedString" handle="h7aa22bf7g34d7g4999gb31dg3f763095ec8c" version="1" /> <!--Link to the .loca file-->
+					<attribute id="DisplayName" type="TranslatedString" handle="h92d29dbagb667g4bbegba05g9cd3b606fef6" version="1" /> <!--Link to the .loca file-->
+					<attribute id="LearningStrategy" type="uint8" value="1" />
+					<attribute id="ClassEquipment" type="FixedString" value="EQP_CC_Windrunner" />
+					<attribute id="Name" type="FixedString" value="Windrunner" /> <!--name of your subclass-->
+					<attribute id="ParentGuid" type="guid" value="f6783867-5547-4bad-ba87-2bcf194667a3" /> <!--This is the same UUID as your main class, as the main class act as the subclass' parent-->
+					<attribute id="PrimaryAbility" type="uint8" value="1" />
+					<attribute id="ProgressionTableUUID" type="guid" value="3fc0f665-1646-41f2-a2fb-38f5cdbdfe80" /> <!--This is a different table as the Main Class, as this one is specific to the subclass-->
+					<attribute id="SoundClassType" type="FixedString" value="Paladin" />
+					<attribute id="SpellCastingAbility" type="uint8" value="6" />
+					<attribute id="UUID" type="guid" value="f63c722e-dc9e-4b07-9c89-31884158a0bf" /> <!--Make a unique UUID for the subclass-->
+					<children>
+						<node id="Tags">
+							<attribute id="Object" type="guid" value="37a733c1-a862-4157-b92a-9cff46232c6a" /> <!--Dialogue tag Ranger-->
+						</node>
+					</children>
+				</node>
+        <node id="ClassDescription"> <!--Subclass Skybreakers-->
+					<attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8" />
+					<attribute id="Description" type="TranslatedString" handle="h5b3a7965g977cg4823g85dfg32bc259e0353" version="1" /> <!--Link to the .loca file-->
+					<attribute id="DisplayName" type="TranslatedString" handle="hc4b6cb30g5bacg4968g8177g874d2ffef386" version="1" /> <!--Link to the .loca file-->
+					<attribute id="LearningStrategy" type="uint8" value="1" />
+					<attribute id="ClassEquipment" type="FixedString" value="EQP_CC_Skybreaker" />
+					<attribute id="Name" type="FixedString" value="Skybreaker" /> <!--name of your subclass-->
+					<attribute id="ParentGuid" type="guid" value="f6783867-5547-4bad-ba87-2bcf194667a3" /> <!--This is the same UUID as your main class, as the main class act as the subclass' parent-->
+					<attribute id="PrimaryAbility" type="uint8" value="1" />
+					<attribute id="ProgressionTableUUID" type="guid" value="4544ca9f-3826-410f-83a2-0ffbd10045e2" /> <!--This is a different table as the Main Class, as this one is specific to the subclass-->
+					<attribute id="SoundClassType" type="FixedString" value="Paladin" />
+					<attribute id="SpellCastingAbility" type="uint8" value="5" />
+					<attribute id="UUID" type="guid" value="a8b44267-1b98-4f19-bf8c-7bf180c9829c" /> <!--Make a unique UUID for the subclass-->
+					<children>
+						<node id="Tags">
+							<attribute id="Object" type="guid" value="1ae7017c-4884-4a43-bc4a-742fa0d201c0" /> <!--Dialogue tag Fighter-->
+						</node>
+					</children>
+				</node> 
+        <node id="ClassDescription"> <!--Subclass Dustbringers-->
+					<attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8" />
+					<attribute id="Description" type="TranslatedString" handle="heaacb668g239fg4d9cga004gfef9a9ec34c1" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hbc1e6f98gc7c0g49a2gb995g0c97cbb8689a" version="1" />
+					<attribute id="LearningStrategy" type="uint8" value="1" />
+					<attribute id="ClassEquipment" type="FixedString" value="EQP_CC_Dustbringer" />
+					<attribute id="Name" type="FixedString" value="Dustbringer" />
+					<attribute id="ParentGuid" type="guid" value="f6783867-5547-4bad-ba87-2bcf194667a3" />
+					<attribute id="PrimaryAbility" type="uint8" value="1" />
+					<attribute id="ProgressionTableUUID" type="guid" value="71f80c31-34db-4d56-83b7-2b4fc3ff273c" />
+					<attribute id="SoundClassType" type="FixedString" value="Barbarian" />
+					<attribute id="SpellCastingAbility" type="uint8" value="5" />
+					<attribute id="UUID" type="guid" value="60243525-a4b4-4f9d-b4a0-ec85ea956f91" />
+					<children>
+						<node id="Tags">
+							<attribute id="Object" type="guid" value="18266c0b-efbc-4c80-8784-ada4a37218d7" /> <!--Dialogue tag Sorcerer-->
+						</node>
+					</children>
+				</node>
+        <node id="ClassDescription"> <!--Subclass Edgedancers-->
+					<attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8" />
+					<attribute id="Description" type="TranslatedString" handle="h8ff29b06g5354g4ef8g9c01ge2ba99b45408" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h204b53cbg9f4dg49abg912cgf9304268540f" version="1" />
+					<attribute id="LearningStrategy" type="uint8" value="1" />
+					<attribute id="ClassEquipment" type="FixedString" value="EQP_CC_Edgedancer" />
+					<attribute id="Name" type="FixedString" value="Edgedancer" />
+					<attribute id="ParentGuid" type="guid" value="f6783867-5547-4bad-ba87-2bcf194667a3" />
+					<attribute id="PrimaryAbility" type="uint8" value="1" />
+					<attribute id="ProgressionTableUUID" type="guid" value="de30b4e5-e742-4734-90e5-94d5f935686a" />
+					<attribute id="SoundClassType" type="FixedString" value="Druid" />
+					<attribute id="SpellCastingAbility" type="uint8" value="5" />
+					<attribute id="UUID" type="guid" value="e915adae-941a-4821-9950-7a02092d741d" />
+					<children>
+						<node id="Tags">
+							<attribute id="Object" type="guid" value="02913f9a-f696-40cf-acdf-32032afab32c" /> <!--Dialogue tag Barbarian-->
+						</node>
+					</children>
+				</node>
+		<node id="ClassDescription"> <!--Subclass Truthwatchers-->
+					<attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8" />
+					<attribute id="Description" type="TranslatedString" handle="ha7eb0de7gdc8dg4fddgab96g1bcc847bdfe8" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h66ec4c25g5bb1g421eg812eg56cb50182b13" version="1" />
+					<attribute id="LearningStrategy" type="uint8" value="1" />
+					<attribute id="ClassEquipment" type="FixedString" value="EQP_CC_Truthwatcher" />
+					<attribute id="Name" type="FixedString" value="Truthwatcher" />
+					<attribute id="ParentGuid" type="guid" value="f6783867-5547-4bad-ba87-2bcf194667a3" />
+					<attribute id="PrimaryAbility" type="uint8" value="1" />
+					<attribute id="ProgressionTableUUID" type="guid" value="d32e55e4-3757-46b4-a425-a7221dd0bf27" />
+					<attribute id="SoundClassType" type="FixedString" value="Sorcerer" />
+					<attribute id="SpellCastingAbility" type="uint8" value="4" />
+					<attribute id="UUID" type="guid" value="0c1cfd21-0843-45a1-b797-1039fc25502a" />
+					<children>
+						<node id="Tags">
+							<attribute id="Object" type="guid" value="02913f9a-f696-40cf-acdf-32032afab32c" /> <!--Dialogue tag Barbarian-->
+						</node>
+					</children>
+				</node>
+		<node id="ClassDescription"> <!--Subclass Lightweavers-->
+					<attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8" />
+					<attribute id="Description" type="TranslatedString" handle="h412744cag5015g4a9agada8g672fd2e6e467" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h0d9cc8b2gbc36g4367ga77eg96cd72774c17" version="1" />
+					<attribute id="LearningStrategy" type="uint8" value="1" />
+					<attribute id="ClassEquipment" type="FixedString" value="EQP_CC_Lightweaver" />
+					<attribute id="Name" type="FixedString" value="Lightweaver" />
+					<attribute id="ParentGuid" type="guid" value="f6783867-5547-4bad-ba87-2bcf194667a3" />
+					<attribute id="PrimaryAbility" type="uint8" value="1" />
+					<attribute id="ProgressionTableUUID" type="guid" value="05df171d-3993-451c-873f-093e180cc3ad" />
+					<attribute id="SoundClassType" type="FixedString" value="Bard" />
+					<attribute id="SpellCastingAbility" type="uint8" value="6" />
+					<attribute id="UUID" type="guid" value="0128a8d5-a90a-4b88-81c0-a99f1445379f" />
+					<children>
+						<node id="Tags">
+							<attribute id="Object" type="guid" value="02913f9a-f696-40cf-acdf-32032afab32c" /> <!--Dialogue tag Barbarian-->
+						</node>
+					</children>
+				</node>
+		<node id="ClassDescription"> <!--Subclass Elsecallers-->
+					<attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8" />
+					<attribute id="Description" type="TranslatedString" handle="h7278d8b7g8952g4b14gaf0bg46ff67e1deaa" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h5fd375c9gb8fbg4bfdga882g994ca44b669b" version="1" />
+					<attribute id="LearningStrategy" type="uint8" value="1" />
+					<attribute id="ClassEquipment" type="FixedString" value="EQP_CC_Elsecaller" />
+					<attribute id="Name" type="FixedString" value="Elsecaller" />
+					<attribute id="ParentGuid" type="guid" value="f6783867-5547-4bad-ba87-2bcf194667a3" />
+					<attribute id="PrimaryAbility" type="uint8" value="1" />
+					<attribute id="ProgressionTableUUID" type="guid" value="177310c9-f69e-4d18-8cc6-b667eec28e33" />
+					<attribute id="SoundClassType" type="FixedString" value="Wizard" />
+					<attribute id="SpellCastingAbility" type="uint8" value="4" />
+					<attribute id="UUID" type="guid" value="94393892-f248-40b8-8303-fb20bc5d8d2f" />
+					<children>
+						<node id="Tags">
+							<attribute id="Object" type="guid" value="02913f9a-f696-40cf-acdf-32032afab32c" /> <!--Dialogue tag Barbarian-->
+						</node>
+					</children>
+				</node>
+      </children>
+    </node>
+  </region>
+</save>

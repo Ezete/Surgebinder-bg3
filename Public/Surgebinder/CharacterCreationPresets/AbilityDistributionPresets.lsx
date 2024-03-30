@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="0" build="60"/>
+    <region id="AbilityDistributionPresets">
+        <node id="root">
+            <children>
+                <node id="AbilityDistributionPreset"> <!--Windrunner-->
+                    <attribute id="ClassUUID" type="guid" value="f6783867-5547-4bad-ba87-2bcf194667a3"/> UUID for the class so the game knows which one it is looking at
+                    <attribute id="Charisma" type="int32" value="14"/>
+					<attribute id="Constitution" type="int32" value="13"/>
+                    <attribute id="Dexterity" type="int32" value="15"/>
+                    <attribute id="Intelligence" type="int32" value="8"/>
+                    <attribute id="Strength" type="int32" value="10"/>
+                    <attribute id="Wisdom" type="int32" value="12"/>
+					<attribute id="UUID" type="guid" value="24a4a0f7-b92d-40ac-8a5e-ab60008745c6"/> the UUID for this entry, not needed anywhere else, but you still need to make a new UUID for it
+                </node>
+                <node id="AbilityDistributionPreset"> <!--Skybreaker-->
+                    <attribute id="ClassUUID" type="guid" value="a8b44267-1b98-4f19-bf8c-7bf180c9829c"/> UUID for the class so the game knows which one it is looking at
+                    <attribute id="Charisma" type="int32" value="8"/>
+					<attribute id="Constitution" type="int32" value="13"/>
+                    <attribute id="Dexterity" type="int32" value="12"/>
+                    <attribute id="Intelligence" type="int32" value="10"/>
+                    <attribute id="Strength" type="int32" value="15"/>
+                    <attribute id="Wisdom" type="int32" value="14"/>
+					<attribute id="UUID" type="guid" value="37b5e8cb-2add-4bce-b4b4-f413ca9569d9"/> the UUID for this entry, not needed anywhere else, but you still need to make a new UUID for it
+                </node>
+                <node id="AbilityDistributionPreset"> <!--Dustbringer-->
+                    <attribute id="ClassUUID" type="guid" value="60243525-a4b4-4f9d-b4a0-ec85ea956f91"/> UUID for the class so the game knows which one it is looking at
+                    <attribute id="Charisma" type="int32" value="8"/>
+					<attribute id="Constitution" type="int32" value="13"/>
+                    <attribute id="Dexterity" type="int32" value="12"/>
+                    <attribute id="Intelligence" type="int32" value="10"/>
+                    <attribute id="Strength" type="int32" value="15"/>
+                    <attribute id="Wisdom" type="int32" value="14"/>
+					<attribute id="UUID" type="guid" value="a5a1055e-bbb3-4f18-abc7-479e4f219bde"/> the UUID for this entry, not needed anywhere else, but you still need to make a new UUID for it
+                </node>
+                <node id="AbilityDistributionPreset"> <!--Edgedancer-->
+                    <attribute id="ClassUUID" type="guid" value="e915adae-941a-4821-9950-7a02092d741d"/> UUID for the class so the game knows which one it is looking at
+                    <attribute id="Charisma" type="int32" value="8"/>
+					<attribute id="Constitution" type="int32" value="13"/>
+                    <attribute id="Dexterity" type="int32" value="15"/>
+                    <attribute id="Intelligence" type="int32" value="12"/>
+                    <attribute id="Strength" type="int32" value="10"/>
+                    <attribute id="Wisdom" type="int32" value="14"/>
+					<attribute id="UUID" type="guid" value="05e736fe-699a-4c4b-a558-820886d94d98"/> the UUID for this entry, not needed anywhere else, but you still need to make a new UUID for it
+                </node>
+                <node id="AbilityDistributionPreset"> <!--Truthwatcher-->
+                    <attribute id="ClassUUID" type="guid" value="0c1cfd21-0843-45a1-b797-1039fc25502a"/> UUID for the class so the game knows which one it is looking at
+                    <attribute id="Charisma" type="int32" value="8"/>
+					<attribute id="Constitution" type="int32" value="14"/>
+                    <attribute id="Dexterity" type="int32" value="13"/>
+                    <attribute id="Intelligence" type="int32" value="15"/>
+                    <attribute id="Strength" type="int32" value="10"/>
+                    <attribute id="Wisdom" type="int32" value="12"/>
+					<attribute id="UUID" type="guid" value="17d040ca-37c9-4a2e-8726-8b19a1ad0e8e"/> the UUID for this entry, not needed anywhere else, but you still need to make a new UUID for it
+                </node>
+                <node id="AbilityDistributionPreset"> <!--Lightweavers-->
+                    <attribute id="ClassUUID" type="guid" value="0128a8d5-a90a-4b88-81c0-a99f1445379f"/> UUID for the class so the game knows which one it is looking at
+                    <attribute id="Charisma" type="int32" value="15"/>
+					<attribute id="Constitution" type="int32" value="14"/>
+                    <attribute id="Dexterity" type="int32" value="13"/>
+                    <attribute id="Intelligence" type="int32" value="10"/>
+                    <attribute id="Strength" type="int32" value="8"/>
+                    <attribute id="Wisdom" type="int32" value="12"/>
+					<attribute id="UUID" type="guid" value="a8ba9f33-f18a-4824-a8b5-d74737f22ce8"/> the UUID for this entry, not needed anywhere else, but you still need to make a new UUID for it
+                </node>
+                <node id="AbilityDistributionPreset"> <!--Elsecaller-->
+                    <attribute id="ClassUUID" type="guid" value="94393892-f248-40b8-8303-fb20bc5d8d2f"/> UUID for the class so the game knows which one it is looking at
+                    <attribute id="Charisma" type="int32" value="8"/>
+					<attribute id="Constitution" type="int32" value="14"/>
+                    <attribute id="Dexterity" type="int32" value="13"/>
+                    <attribute id="Intelligence" type="int32" value="15"/>
+                    <attribute id="Strength" type="int32" value="10"/>
+                    <attribute id="Wisdom" type="int32" value="12"/>
+					<attribute id="UUID" type="guid" value="0c690eb2-40fc-4b2a-8665-4b33e0abdfc3"/> the UUID for this entry, not needed anywhere else, but you still need to make a new UUID for it
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h325e4d90g606ag4ee7gab81ge8f1c4e838f8" version="1">Surgebinder</content>
+	<content contentuid="h936e5cc8gcf49g41degaa67g744bfe6f3733" version="1">Surgebinders can manipulate ten fundamental forces locally known as Surges, with each Surgebinder having access to two of the Surges with overlap between them, by infusing objects or beings with Stormlight.</content>
+	
+	<content contentuid="h92d29dbagb667g4bbegba05g9cd3b606fef6" version="1">Order of the Windrunners</content>
+	<content contentuid="h7aa22bf7g34d7g4999gb31dg3f763095ec8c" version="1">The Windrunners are Surgebinders who use the Surges of Adhesion and Gravitation. Those who join the Windrunners generally subscribe to a philosophy of protection, particularly defending innocents or those who are unable to protect themselves.</content>
+
+	<content contentuid="hc4b6cb30g5bacg4968g8177g874d2ffef386" version="1">Order of the Skybreakers</content>
+	<content contentuid="h5b3a7965g977cg4823g85dfg32bc259e0353" version="1">The Skybreakers are Surgebinders who use the Surges of Gravitation and Division. The individuals who join the Skybreakers generally believe in following a strong moral code. They wish to prevent both anarchy and tyranny. To do so, they enforce the law on everyone.</content>
+
+	<content contentuid="hbc1e6f98gc7c0g49a2gb995g0c97cbb8689a" version="1">Order of the Dustbringers</content>
+	<content contentuid="heaacb668g239fg4d9cga004gfef9a9ec34c1" version="1">The Dustbringers are Surgebinders who control the Surges of Division and Abrasion. The Dustbringers believe that great power requires a strong will to control it, and their oaths are designed to teach them to control their destructive power.</content>
+
+	<content contentuid="h204b53cbg9f4dg49abg912cgf9304268540f" version="1">Order of the Edgedancers</content>
+	<content contentuid="h8ff29b06g5354g4ef8g9c01ge2ba99b45408" version="1">The Edgedancers are Surgebinders who use the Surges of Abrasion and Progression. Edgedancers generally subscribe to a philosophy of remembering the ordinary people of the world. The order considers it their solemn duty to remember that the people are the ones they truly serve.</content>
+
+	<content contentuid="h66ec4c25g5bb1g421eg812eg56cb50182b13" version="1">Order of the Truthwatchers</content>
+	<content contentuid="ha7eb0de7gdc8dg4fddgab96g1bcc847bdfe8" version="1">The Truthwatchers are Surgebinders who used the Surges of Illumination and Progression. Those who join the Truthwatchers generally subscribe to a philosophy of finding the ultimate truth and sharing it. The order is concerned with the fundamental truths of the universe, and whether or not those in power are being truthful with the people they lead.</content>
+
+	<content contentuid="h0d9cc8b2gbc36g4367ga77eg96cd72774c17" version="1">Order of the Lightweavers</content>
+	<content contentuid="h412744cag5015g4a9agada8g672fd2e6e467" version="1">The Lightweavers are Surgebinders who use the Surges of Illumination and Transformation. While each order of Radiants contains a variety of personalities within it, those who join the Lightweavers generally subscribe to a philosophy of speaking truths about themselves that they must admit in order to progress as people.</content>
+
+	<content contentuid="h5fd375c9gb8fbg4bfdga882g994ca44b669b" version="1">Order of the Elsecallers</content>
+	<content contentuid="h7278d8b7g8952g4b14gaf0bg46ff67e1deaa" version="1">The Elsecallers were Surgebinders who used the Surges of Transformation and Transportation. Those who join the Elsecallers generally subscribe to a philosophy that they should be becoming better with each oath, seeking to explore their true potential and reach it. The order is more open to all types of people, as long as they want to improve themselves.</content>
+
+	
+
+	
+	<content contentuid="h9247117cg09e4g4691g95b2g5727aa860da1" version="1">Spren</content>
+	<content contentuid="h7a9d8e6bg0a04g4b1dg8e69geb00b4767fb4" version="1">You've bonded an spren. You can use you action to summon it</content>
+	<content contentuid="h3adff13dg7f19g4c5fga578gbedd09165fcc" version="1">Summon your invisible spren that can manipulate and interact with others</content>
+
+	<content contentuid="hbe57a51agd395g42ccgaf06g2904dd163ea4" version="1">Stormlight</content>
+	<content contentuid="h2ba041d6g05cfg470bg9b52g83e8178c1939" version="1">Spend Stormlight to cast Spells.</content>
+
+	<content contentuid="hf68bdc0bg3b24g49a3g987agd459bd36955f" version="1">Stormlight Unlocked</content>
+	<content contentuid="hc6050ce1gccf2g459cg8a64gc48b21e33b5e" version="1">Gain 4 Stormlight points</content>
+
+	<content contentuid="h58e2d944g9529g4364gbee6g380316298c8a" version="1">Redirected</content>
+	<content contentuid="h2ba041d6g05cfg470bg9b52g83e8178c1939" version="1">Gains disadvantage on incoming attacks for 1 turn</content>
+	
+	<content contentuid="h4dff3bcagd30eg4a14g90d2g7e34c75b7f89" version="1">Stormlight Healing</content>
+	<content contentuid="h0667b199gd5e7g49d1g9ea6g231b6116ea37" version="1">You can spend Stormlight points to heal 2 points of damage</content>
+	
+	<content contentuid="hcce82ea9g7311g4d8egbe96g35e532dfbca1" version="1">Shardblade</content>
+	<content contentuid="h07a05b62g04f6g4ce0gaf64g34a64e7e0d90" version="1">Your bond has deepend. You are now able to summon your spren as a Shardblade</content>
+	
+	<content contentuid="h4657d7e5g1957g458eg91a4g61bb5fd92d36" version="1">ImprovedShardblade</content>
+	<content contentuid="h08f16ba2g2b31g4b4bg8b5cg19ee314721ec" version="1">Your Shardblade gains a +1 to attack and damage rolls</content>
+	
+	<content contentuid="hfacb1d1cg13ddg45e3gae62g825feac9377e" version="1">Redirect</content>
+	<content contentuid="h2fb80f82g5ea2g46fdgaebagb1ee4eafa8ac" version="1">If you have a shield equipped, you can give yourself and nearby allies <LSTag Tooltip="Disadvantage">Disadvantage</LSTag> on incoming weapon ranged attacks.</content>
+	
+	<content contentuid="h0defca14gcd84g448fg9987g92ea32ff058c" version="1">Stormlight Healing</content>
+	<content contentuid="h62af82f5gf945g4955ga538gbc333230f353" version="1">You can spend Stormlight points to heal yourself</content>
+		
+	<content contentuid="h23c6d3b7g8dbeg433bg84c1g3531de3b01ee" version="1">Wind's Grace</content>
+	<content contentuid="h1457f894g1145g48e0g9533g16a2290e9ae2" version="1">You gain a +3 bonus to Initiative</content>
+		
+	<content contentuid="hd9c7534bg0cc1g4a8egb4d3gaab7ca23a6e0" version="1">Shardglaive</content>
+	<content contentuid="h4f7b84d4g572fg457cg9bd8g552ad150730c" version="1">A summonable glaive made out of you spren's essence. It emanates a small light.</content>
+	<content contentuid="h4e47ad77g1021g4f3agbfbagac4117ee8cfd" version="1">Summon a glaive.</content>
+		
+	<content contentuid="h0da6b250g8737g4d7agb210g947dd44a9053" version="1">Shardstaff</content>
+	<content contentuid="h2068d01bgb808g4f31g9d40gdbcd18cf18b5" version="1">A summonable quarterstaff made out of you spren's essence. It emanates a small light</content>
+	<content contentuid="heb0a810bg9bcag4840g9e5fg4cd08cfad050" version="1">Summon a quarterstaff.</content>
+		
+	<content contentuid="heb1f0649gbd23g48a6g81aeg86e169b24fa7" version="1">Shardspear</content>
+	<content contentuid="h4843ac10g843dg40aag9ce5g4cdcef12809e" version="1">A summonable spear made out of you spren's essence. It emanates a small light</content>
+	<content contentuid="hbea3336ag2229g4c93g9571gdeb7f359ffa2" version="1">Summon a spear.</content>
+			
+	<content contentuid="ha11207c1g3ccdg433ega109gf85f51d48c1d" version="1">Shardrapier</content>
+	<content contentuid="h195ccd34g8628g4757ga50bg2f32cbf94b75" version="1">A summonable rapier made out of you spren's essence. It emanates a small light</content>
+	<content contentuid="h2910d7d1gbb7fg4f4bg80b7g150126dbf982" version="1">Summon a rapier.</content>
+			
+	<content contentuid="hb86aa5c3g1299g4782g87fcgf98d948b8144" version="1">Shardblade</content>
+	<content contentuid="h9b5ef4b1geef8g4439ga7bdg1e11a93cc76c" version="1">A summonable greatsword made out of you spren's essence. It emanates a small light</content>
+	<content contentuid="ha6b74a93ge910g4abcgbcc5g329d3d9ca85e" version="1">Summon a greatsword.</content>
+			
+	<content contentuid="h3fcab7dbg8e55g4237ga90bgd9c800170112" version="1">Shardtrident</content>
+	<content contentuid="h825a03eag1e64g4a58g9a94gdadda6f19435" version="1">A summonable trident made out of you spren's essence. It emanates a small light</content>
+	<content contentuid="h02526086gd8cbg4f38g94fbg599c70c6d1d7" version="1">Summon a trident.</content>
+			
+	<content contentuid="h46e14a2bgff9eg4d77ga156g9d4dbb95770d" version="1">Shardharmmer</content>
+	<content contentuid="h5f327220gfa4ag4f4cgb64dg29d527de390d" version="1">A summonable warhammer made out of you spren's essence. It emanates a small light</content>
+	<content contentuid="h8ceacc39gb097g4c3fgaa81g85524f9f5854" version="1">Summon a warhammer.</content>
+			
+	<content contentuid="h49691368g5e26g454fg824ag423b1181467d" version="1">Shardaxe</content>
+	<content contentuid="he036bb45g64a4g40d8ga7f0g89e019ec11ff" version="1">A summonable battleaxe made out of you spren's essence. It emanates a small light</content>
+	<content contentuid="hc5a296acgea44g4f63g93e8g3cfcc1017441" version="1">Summon a battleaxe.</content>
+	
+	<content contentuid="hc82a4d07gb086g4092ga688ge0851d55b8b6" version="1">Gravitational Imprisonment</content>
+	<content contentuid="hb60b9ac5gc84eg485dg87fbg8ea8570d8f0f" version="1">Infuse the enemy to make the fall.</content>
+	
+	<content contentuid="h3e7dd9aag84e8g4217g9a7cg8bd28bfa3bd2" version="1">Gravitational pull</content>
+	<content contentuid="h15b49065g70b0g471fg84e9g3f0a99ff5e7a" version="1">You are being pulled by gravity and may fall.</content>
+	
+	<content contentuid="hff570352g0a5dg42afgba1dg2739685473a3" version="1">You must be weilding a Shardblade to perform an Extra Attack</content>
+	<content contentuid="h91a493bag192fg44ccg9ad3g7488f7452c9d" version="1">You must not be weilding a Shardblade to perform an Extra Attack</content>
+
+	
+	Fighting Style
+
+</contentList>

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with ShinyHobo's BG3 Modder's Multitool-->
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="SpellLists">
+    <node id="root">
+      <children>
+        <node id="SpellList">
+			        <attribute id="Comment" type="LSString" value="Windrunner level 1" />
+                    <attribute id="Spells" type="LSString" value="Target_Jump;Shout_Redirect" /> a list of spell separated by a ;
+                    <attribute id="UUID" type="guid" value="fdae8f3a-0bb1-43c8-90da-3f0bed37bcc7" /> make a new UUID. refer to this when selecting or adding spells
+                </node>
+        <node id="SpellList">
+			        <attribute id="Comment" type="LSString" value="Windrunner level 3" />
+                    <attribute id="Spells" type="LSString" value="Target_GravitationalImprisonment;Shout_WardingWind" /> a list of spell separated by a ;
+                    <attribute id="UUID" type="guid" value="c4920d07-9644-4a28-a68f-38092f67a188" /> make a new UUID. refer to this when selecting or adding spells
+                </node>
+        <node id="SpellList">
+			        <attribute id="Comment" type="LSString" value="Windrunner level 5" />
+                    <attribute id="Spells" type="LSString" value="Target_Fly;Target_Invested_Strike" /> a list of spell separated by a ;
+                    <attribute id="UUID" type="guid" value="c043a5bf-ed6b-4ff6-beb2-38dd94dd23a9" /> make a new UUID. refer to this when selecting or adding spells
+                </node>
+        <node id="SpellList">
+			        <attribute id="Comment" type="LSString" value="Windrunner level 7" />
+                    <attribute id="Spells" type="LSString" value="Throw_Launch;Zone_WindStream" /> a list of spell separated by a ;
+                    <attribute id="UUID" type="guid" value="8509342a-a6ce-49f5-a6d9-e59379b1c000" /> make a new UUID. refer to this when selecting or adding spells
+                </node>
+        <node id="SpellList">
+			        <attribute id="Comment" type="LSString" value="Windrunner level 9" />
+                    <attribute id="Spells" type="LSString" value="Target_TieUp;Target_Flying_Strike" /> a list of spell separated by a ;
+                    <attribute id="UUID" type="guid" value="6ec938c5-771b-4cd6-9931-66778d1e506e" /> make a new UUID. refer to this when selecting or adding spells
+                </node>
+        <node id="SpellList">
+			        <attribute id="Comment" type="LSString" value="Windrunner level 11" />
+                    <attribute id="Spells" type="LSString" value="Target_StrenghOfTheSquires;Projectile_Fly" /> a list of spell separated by a ;
+                    <attribute id="UUID" type="guid" value="e59bbd0d-3158-4eac-8afd-40f46e955b0e" /> make a new UUID. refer to this when selecting or adding spells
+                </node>
+        <node id="SpellList">
+			<attribute id="Comment" type="LSString" value="Surgebinder level 1" />
+			<attribute id="Spells" type="LSString" value="Target_SummonSpren" /> a list of spell separated by a ;
+			<attribute id="UUID" type="guid" value="0b8ab988-68bf-43d9-b0ad-c12ec46de719" /> make a new UUID. refer to this when selecting or adding spells
+		</node>
+      </children>
+    </node>
+  </region>
+</save>

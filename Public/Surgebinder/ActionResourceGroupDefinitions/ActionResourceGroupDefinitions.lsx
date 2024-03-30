@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="312"/>
+    <region id="ActionResourceGroupDefinitions">
+        <node id="root">
+            <children>
+                <node id="ActionResourceGroupDefinition">
+                    <attribute id="ActionResourceDefinitions" type="LSString" value="f777f446-1062-4931-b901-0180a6e9edf8"/>
+                    <attribute id="Name" type="LSString" value="StormlightGroup"/>
+                    <attribute id="UUID" type="guid" value="167fad6f-e967-4e18-8d84-7a9ff90aa9da"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with ShinyHobo's BG3 Modder's Multitool-->
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="ActionResourceDefinitions">
+    <node id="root">
+      <children>
+        <node id="ActionResourceDefinition">
+					<attribute id="Description" type="TranslatedString" handle="h2ba041d6g05cfg470bg9b52g83e8178c1939" version="3" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hbe57a51agd395g42ccgaf06g2904dd163ea4" version="1" />
+					<attribute id="MaxLevel" type="uint32" value="0" />
+					<attribute id="Name" type="FixedString" value="Stormlight" />
+					<attribute id="ReplenishType" type="FixedString" value="Rest" />
+					<attribute id="ShowOnActionResourcePanel" type="bool" value="true" />
+					<attribute id="UUID" type="guid" value="f777f446-1062-4931-b901-0180a6e9edf8" />
+				</node>
+		<node id="ActionResourceDefinition">
+					<attribute id="DisplayName" type="TranslatedString" handle="hae559bcdg709eg44abg848dg0673b4428547" version="3" />
+					<attribute id="IsHidden" type="bool" value="True" />
+					<attribute id="Name" type="FixedString" value="StormlightHealing_Charge" />
+					<attribute id="ReplenishType" type="FixedString" value="Turn" />
+					<attribute id="ShowOnActionResourcePanel" type="bool" value="False" />
+					<attribute id="UUID" type="guid" value="4a04168a-9a2e-461f-8fe5-bda53ad565d9" />
+				</node>
+		<node id="ActionResourceDefinition">
+					<attribute id="DisplayName" type="TranslatedString" handle="hae559bcdg709eg44abg848dg0673b4428547" version="3" />
+					<attribute id="Name" type="FixedString" value="ProtectionCharge" />
+					<attribute id="ReplenishType" type="FixedString" value="Rest" />
+					<attribute id="ShowOnActionResourcePanel" type="bool" value="true" />
+					<attribute id="UUID" type="guid" value="0b657a6d-0cf3-4902-8be0-c10ffdbf0320" />
+				</node>
+		<node id="ActionResourceDefinition">
+					<attribute id="DisplayName" type="TranslatedString" handle="hae559bcdg709eg44abg848dg0673b4428547" version="3" />
+					<attribute id="Name" type="FixedString" value="ShardplateCharge" />
+					<attribute id="ReplenishType" type="FixedString" value="Rest" />
+					<attribute id="ShowOnActionResourcePanel" type="bool" value="true" />
+					<attribute id="UUID" type="guid" value="67c15bb3-f3ab-4f5a-bbf7-9304f292673e" />
+				</node>
+      </children>
+    </node>
+  </region>
+</save>

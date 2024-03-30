@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with ShinyHobo's BG3 Modder's Multitool-->
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="PassiveLists">
+    <node id="root">
+      <children>
+        <node id="PassiveList">
+                    <attribute id="Passives" type="LSString" value="ShardbladeExtraAttack,RhythmOfWar" /> a list of passives separated with a comma
+                    <attribute id="UUID" type="guid" value="623558c4-8ee9-4312-8fac-0f8feff81c3d" /> make a new UUID for each passive list. when selecting passive from list, refer to this UUID
+                </node>
+      </children>
+    </node>
+  </region>
+</save>
